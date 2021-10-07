@@ -1,0 +1,2 @@
+a='Mahfuz'
+print(a);
